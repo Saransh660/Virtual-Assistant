@@ -1,0 +1,16 @@
+Following Built-in modules are used:
+
+1. os module
+2. datetime module
+3. webbrowser module
+4. smtplib
+
+Following modules are needed to be explicitly installed by running the below command in the cmd -:
+pip install <module name>
+
+1. pyttsx3
+2. pyaudio
+3. SpeechRecognition
+4. wikipedia
+5. winshell
+
