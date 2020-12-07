@@ -9,6 +9,7 @@ This is created in order to automate some of your tasks like:
 6. getting the current time
 7. opening command prompt in windows
 
+Go through pyhon modules info file for importing req modules for this program.
 
 more features yet to come.......
 
